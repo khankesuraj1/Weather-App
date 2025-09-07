@@ -36,6 +36,7 @@ npm install
 # 4. Start development server
 npm run dev
 
+
 ⚙️ API Used
 
 Geocoding API (to get latitude & longitude from city name)
